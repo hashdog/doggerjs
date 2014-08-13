@@ -1,4 +1,9 @@
 # --------------------
+# Windows Files
+# --------------------
+Thumbs.db
+
+# --------------------
 # OSX Files
 # --------------------
 .DS_Store
@@ -49,7 +54,7 @@ bower_components
 # --------------------
 # App Files
 # --------------------
-test/coverage/
-modules/public/
-modules/views/
-/public/build/
+public/css/*
+public/js/*
+public/img/*
+public/lib/*

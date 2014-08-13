@@ -5,6 +5,7 @@
     "angular": "latest",
     "angular-resource": "latest",
     "angular-cookies": "latest",
-    "angular-route": "latest"
+    "angular-route": "latest",
+    "bootstrap": "~3.2.0"
   }
 }

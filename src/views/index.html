@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html ng-app="doggerApp">
+<head>
+  <base href="/">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DoggerJS App</title>
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div ng-controller="NavbarCtrl" class="navbar navbar-default navbar-static-top" role="navigation">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/">{{name}}</a>
+    </div>
+    <ul class="nav navbar-nav pull-right" ng-if="!currentUser">
+      <li data-match-route="/login"><a href="/login">Login</a></li>
+    </ul>
+    <ul class="nav navbar-nav pull-right" ng-if="currentUser">
+      <li class="navbar-avatar">
+        <img ng-src="{{currentUser.github.avatar_url}}" alt="{{currentUser.name}}" class="img-circle">
+      </li>
+      <li><a href="javascript:void(0)" ng-click="logout()">Logout</a></li>
+    </ul>
+  </div>
+
+  <div ng-view></div>
+
+  <script src="js/angular-all.min.js"></script>
+  <script src="js/vendors.min.js"></script>
+  <script src="js/templates.js"></script>
+  <script src="js/app.min.js"></script>
+</body>
+</html>

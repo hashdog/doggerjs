@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700);
+
+// Import files
+@import 'variables';
+
+
+body {
+  background-color: $body-bg;
+  color: $font-color;
+  font-family: $font-family-base;
+}
+
+/*AngularJS Styles*/
+[ng-cloak] {
+  display: none;
+}
+
+[ng-click] {
+  cursor: pointer;
+}
+
+// General
+* { outline: none; }
+
+.text-ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+// Navbar
+.navbar-avatar {
+  height: 50px;
+  line-height: 50px;
+}
+
+.navbar-avatar .img-circle {
+  height: 30px;
+}

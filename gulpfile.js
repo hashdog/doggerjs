@@ -138,7 +138,7 @@ gulp.task('templates:index', function() {
 
 // Watch
 gulp.task('watch', function() {
-  gulp.watch(sources.styles + '*.scss', ['sass']);
+  gulp.watch(sources.styles + '**/*.scss', ['sass']);
   gulp.watch(sources.images, ['images']);
   gulp.watch(sources.scripts, ['scripts:app']);
   gulp.watch(sources.templatesAll, ['templates:all']);

@@ -5,7 +5,7 @@
 </p>
 # DoggerJS
 [![Stories in Ready](https://badge.waffle.io/hashdog/doggerjs.png?label=ready&title=Ready)](https://waffle.io/hashdog/doggerjs)
-[![Build Status](https://travis-ci.org/hashdog/doggerjs.svg?branch=master)](https://travis-ci.org/hashdog/doggerjs)
-[![Dependency Status](https://david-dm.org/hashdog/doggerjs.png)](https://david-dm.org/hashdog/doggerjs)
-[![devDependency Status](https://david-dm.org/hashdog/doggerjs/dev-status.png)](https://david-dm.org/hashdog/doggerjs#info=devDependencies)
-[![Code Climate](https://codeclimate.com/github/hashdog/doggerjs/badges/gpa.svg)](https://codeclimate.com/github/hashdog/doggerjs)
+[![Build Status](http://img.shields.io/travis/hashdog/doggerjs.svg?style=flat-square)](https://travis-ci.org/hashdog/doggerjs)
+[![Dependency Status](http://img.shields.io/david/hashdog/doggerjs.svg?style=flat-square)](https://david-dm.org/hashdog/doggerjs)
+[![devDependency Status](http://img.shields.io/david/dev/hashdog/doggerjs.svg?style=flat-square)](https://david-dm.org/hashdog/doggerjs#info=devDependencies)
+[![Code Climate](http://img.shields.io/codeclimate/github/hashdog/doggerjs.svg?style=flat-square)](https://codeclimate.com/github/hashdog/doggerjs)

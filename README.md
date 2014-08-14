@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/hashdog/doggerjs.png?label=ready&title=Ready)](https://waffle.io/hashdog/doggerjs)
 <p align="center">
   <a href="http://doggerjs.com">
     <img height="250" src="http://doggerjs.com/img/doggerjs.png"/>

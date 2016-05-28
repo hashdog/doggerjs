@@ -4,9 +4,14 @@
   </a>
 </p>
 # DoggerJS
-[![Beerpay](https://beerpay.io/hashdog/doggerjs/badge.svg?style=flat-square)](https://beerpay.io/chebyte/doggerjs)
+[![Beerpay](https://beerpay.io/hashdog/doggerjs/badge.svg)](https://beerpay.io/hashdog/doggerjs)
 [![Stories in Ready](https://badge.waffle.io/hashdog/doggerjs.png?label=ready&title=Ready)](https://waffle.io/hashdog/doggerjs)
 [![Build Status](http://img.shields.io/travis/hashdog/doggerjs.svg?style=flat-square)](https://travis-ci.org/hashdog/doggerjs)
 [![Dependency Status](http://img.shields.io/david/hashdog/doggerjs.svg?style=flat-square)](https://david-dm.org/hashdog/doggerjs)
 [![devDependency Status](http://img.shields.io/david/dev/hashdog/doggerjs.svg?style=flat-square)](https://david-dm.org/hashdog/doggerjs#info=devDependencies)
 [![Code Climate](http://img.shields.io/codeclimate/github/hashdog/doggerjs.svg?style=flat-square)](https://codeclimate.com/github/hashdog/doggerjs)
+
+
+# Support this project on Beerpay!
+
+[![Beerpay](https://beerpay.io/hashdog/doggerjs/badge.svg)](https://beerpay.io/hashdog/doggerjs)

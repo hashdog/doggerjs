@@ -15,3 +15,8 @@
 # Support this project on Beerpay!
 
 [![Beerpay](https://beerpay.io/hashdog/doggerjs/badge.svg)](https://beerpay.io/hashdog/doggerjs)
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/hashdog/doggerjs/badge.svg?style=beer-square)](https://beerpay.io/hashdog/doggerjs)  [![Beerpay](https://beerpay.io/hashdog/doggerjs/make-wish.svg?style=flat-square)](https://beerpay.io/hashdog/doggerjs?focus=wish)
